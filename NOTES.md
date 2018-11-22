@@ -4,7 +4,7 @@
 
 ![Algo](https://raw.githubusercontent.com/letsdodatascience/lsd-slam/master/algo.png)
 
-SLAM == Simultaneous Localization and Mapping
+SLAM: _Simultaneous Localization and Mapping_
 
 - direct (feature-less) monocular slam algorithm allows to build large-scale, consistent maps of the world.
 
