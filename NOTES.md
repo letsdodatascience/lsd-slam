@@ -2,7 +2,7 @@
 
 **LSD-SLAM: Large-Scale Direct Monocular SLAM**
 
-![Algo]("./algo.png")
+![Algo](https://raw.githubusercontent.com/letsdodatascience/lsd-slam/master/algo.png)
 
 SLAM == Simultaneous Localization and Mapping
 
